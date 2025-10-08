@@ -20,3 +20,9 @@ Giao tiếp – khả năng truyền đạt ý tưởng và làm việc với m�
 Giải quyết vấn đề – tư duy logic và phân tích để tìm ra giải pháp tối ưu.
 
 Làm việc nhóm – hợp tác hiệu quả và hỗ trợ đồng đội.
+
+Trong thời gian tới, tôi sẽ tập trung học chuyên sâu về Unity để phát triển game 2D và 3D chuyên nghiệp.
+Tôi dự định xây dựng nhiều dự án nhỏ như game phiêu lưu, mô phỏng nông trại và RPG để rèn luyện kỹ năng thực hành.
+Bên cạnh đó, tôi sẽ tìm hiểu thêm về C#, thiết kế gameplay, và tối ưu hiệu suất trong Unity.
+Tôi cũng sẽ học cách kết hợp Unity với web và cơ sở dữ liệu để tạo ra sản phẩm có tính tương tác cao.
+Mục tiêu của tôi là trở thành một game developer sáng tạo, có thể tự thiết kế, lập trình và phát triển game hoàn chỉnh.
