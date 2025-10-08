@@ -1,0 +1,5 @@
+# Cảm nhận về Git
+
+• Git là một công cụ quản lý phiên bản cực kỳ mạnh mẽ và hữu ích cho việc phát triển phần mềm
+• Việc làm quen với Git ban đầu có thể khó khăn nhưng sau khi thành thạo thì rất tiện lợi
+• Git giúp theo dõi mọi thay đổi trong code và cho phép làm việc nhóm hiệu quả
