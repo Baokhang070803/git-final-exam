@@ -1,3 +1,8 @@
 Song Lưu Trảm thay cho Băng Vân Kích ( Đánh thường đặc trưng )
+•	Vung hai đầu kiếm chém chéo liên tiếp, tạo hình "chữ X" băng giá.
+•	Gây sát thương 2 hit.
+
+Modified locally - Added from local repository
+This demonstrates local changes after pulling from GitHub remoteg Lưu Trảm thay cho Băng Vân Kích ( Đánh thường đặc trưng )
 •	Vung hai đầu kiếm chém chéo liên tiếp, tạo hình “chữ X” băng giá.
 •	Gây sát thương 2 hit.
