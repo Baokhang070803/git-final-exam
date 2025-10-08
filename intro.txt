@@ -1,5 +1,6 @@
 Giới thiệu cá nhân:
 Hello, this is Vo Tran Hoang Bao Khang, sinh viên năm cuối chuyên ngành Công nghệ Thông tin.
+Xin chào, tôi là Vo Tran Hoang Bao Khang, sinh viên năm cuối chuyên ngành Công nghệ Thông tin.
 Tôi có niềm đam mê mãnh liệt với lập trình, làm game và phát triển web.
 Hiện tại, tôi đang học tập và rèn luyện các kỹ năng lập trình để trở thành một developer chuyên nghiệp, có khả năng tạo ra những sản phẩm sáng tạo và hữu ích.
 Tôi luôn tìm kiếm cơ hội để học hỏi công nghệ mới và áp dụng vào các dự án thực tế.
@@ -26,3 +27,5 @@ Tôi dự định xây dựng nhiều dự án nhỏ như game phiêu lưu, mô 
 Bên cạnh đó, tôi sẽ tìm hiểu thêm về C#, thiết kế gameplay, và tối ưu hiệu suất trong Unity.
 Tôi cũng sẽ học cách kết hợp Unity với web và cơ sở dữ liệu để tạo ra sản phẩm có tính tương tác cao.
 Mục tiêu của tôi là trở thành một game developer sáng tạo, có thể tự thiết kế, lập trình và phát triển game hoàn chỉnh.
+
+Conflict resolved on 08/10/2025
