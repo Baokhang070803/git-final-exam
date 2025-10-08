@@ -1,0 +1,13 @@
+# Tính năng mới: Hệ thống Achievement (Thành tựu) trong Game
+
+## Mô tả tính năng
+
+Tính năng Achievement System sẽ cho phép người chơi mở khóa các thành tựu khi hoàn thành các nhiệm vụ hoặc đạt được các mốc quan trọng trong game. 
+
+Hệ thống sẽ bao gồm các loại achievement như: First Kill (giết enemy đầu tiên), Level Master (hoàn thành level không chết), Speed Runner (hoàn thành level trong thời gian kỷ lục), Collector (thu thập tất cả items trong level).
+
+Mỗi achievement sẽ có icon đẹp mắt, mô tả chi tiết, và có thể mang lại phần thưởng như unlock skin mới, power-up đặc biệt, hoặc điểm kinh nghiệm bonus.
+
+Giao diện achievement sẽ được thiết kế dạng popup thông báo khi mở khóa và có màn hình dedicated để xem tất cả thành tựu đã đạt được.
+
+Tính năng này sẽ tăng tính replay value và tạo động lực cho người chơi khám phá game sâu hơn.
