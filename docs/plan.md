@@ -30,3 +30,9 @@
 **Công cụ hỗ trợ:** Visual Studio Code cho scripting, Git cho version control, và Discord để tham gia cộng đồng Unity.
 
 **Đánh giá tiến độ:** Cuối mỗi ngày sẽ review lại kiến thức đã học và note lại những điểm cần cải thiện.
+
+## Ghi chú bổ sung - Lần 2
+
+**Backup và Version Control:** Thường xuyên backup project và commit code lên GitHub để đảm bảo an toàn dữ liệu.
+
+**Networking với cộng đồng:** Tham gia các forum Unity, Reddit và Discord để học hỏi kinh nghiệm từ các developer khác.
