@@ -22,3 +22,11 @@
 **Mục tiêu tuần:** Nắm vững cơ bản về Unity và có thể tạo ra một game 2D đơn giản hoàn chỉnh.
 
 **Thời gian học mỗi ngày:** 3-4 tiếng, chia thành 2 session sáng và tối để tối ưu hiệu quả học tập.
+
+## Ghi chú bổ sung - Lần 1
+
+**Tài liệu tham khảo:** Sử dụng Unity Documentation, YouTube tutorials và các khóa học online chất lượng cao.
+
+**Công cụ hỗ trợ:** Visual Studio Code cho scripting, Git cho version control, và Discord để tham gia cộng đồng Unity.
+
+**Đánh giá tiến độ:** Cuối mỗi ngày sẽ review lại kiến thức đã học và note lại những điểm cần cải thiện.
